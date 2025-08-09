@@ -1,3 +1,4 @@
 psycopg2==2.9.10
 numpy==2.2.6
 pytest==8.4.1
+prompt_toolkit==3.0.51
